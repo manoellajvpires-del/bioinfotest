@@ -1,5 +1,5 @@
 
-# Questões
+# Questões.
 
 1 - Quantas sequências de DNA, do paciente sequenciado, temos nos arquivos `fastqs` R1 e R2 respectivamente?
 
