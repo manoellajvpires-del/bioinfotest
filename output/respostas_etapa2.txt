@@ -1,0 +1,18 @@
+
+Respostas para Questões 2:
+1 - Comprimento da sequência de consulta: 197 nucleotídeos.
+2 - Gêneros e espécies representados nos 10 melhores hits: 3 (Colletotrichum jixiense, Colletotrichum musae, Colletotrichum sp).
+3 - Porcentagem da sequência de consulta alinhada com a correspondência superior: 100.00%.
+4 - Porcentagem de nucleotídeos idênticos à top match: 94.42%.
+5 - Número de correspondências entre os 10 melhores que não são 100% idênticas: 10.
+6 - Probabilidade de encontrar a mesma correspondência em um banco de dados aleatório (E-value da top match): 2.18e-76.
+7 - Esta sequência é publicada? Onde? A sequência de consulta ('MyUnknownSequence') não foi fornecida com informações de publicação. Baseado apenas no contexto, não há indicação de que seja publicada em um banco de dados como o GenBank.
+8 - O top match está publicado? Onde? Sim, o top match ('Colletotrichum jixiense strain CNUCC 5-21-2-2 actin (ACT) gene, partial cds' com Accession: gi|2818622009|gb|PP830765.1|) é publicada no GenBank, como indicado pelo seu Accession ID.
+Consultando o GenBank (interpretação baseada nos resultados do BLAST):
+1 - Que região do genoma esta sequência representa? A sequência representa uma região do gene de actina (ACT), especificamente um 'partial cds' (sequência codificante parcial), como indicado no título da top match: 'Colletotrichum jixiense strain CNUCC 5-21-2-2 actin (ACT) gene, partial cds'.
+2 - Esta é uma sequência codificante? Sim, esta é uma sequência codificante (cds - coding sequence), conforme indicado no título da top match.
+3 - Quantas espécies são representadas nos 15 melhores hits? Todos eles têm a mesma identidade de sequência com a sequência de consulta?
+Espécies representadas: 3 (Colletotrichum jixiense, Colletotrichum musae, Colletotrichum sp).
+Todos os 15 melhores hits têm a mesma identidade de sequência com a sequência de consulta: True (Todas com 94.416%).
+Os dois primeiros hits são publicados? Sim, ambos o primeiro e o segundo hits são publicados no GenBank, como indicado pelos seus Accession IDs.
+5 - Qual é o número de acesso do GenBank para o melhor resultado? gi|2818622009|gb|PP830765.1|
