@@ -1,0 +1,32 @@
+
+## Respostas para as perguntas da Etapa 1:
+
+### Q&A
+
+1.  **Quantas sequências de DNA, do paciente sequenciado, temos nos arquivos FASTQ R1 e R2 respectivamente?**
+    Existem 64.276 sequências no arquivo FASTQ R1 (`510-7-BRCA_S8_L001_R1_001.fastq.gz`) e 64.276 sequências no arquivo FASTQ R2 (`510-7-BRCA_S8_L001_R2_001.fastq.gz`).
+2.  **Sobre o genoma humano hg19, quantos contigs tem o nosso genoma hg19 (hg19.fasta)?**
+    O arquivo de índice `hg19.fa.fai` lista 93 contigs para o genoma hg19.
+3.  **Quantos alinhamentos há na região chr17:41197694-41197819?**
+    Há 2.211 alinhamentos na região genômica `chr17:41197694-41197819` no arquivo `/content/bioinfotest/output/aln.sorted.bam`.
+4.  **Quantos alinhamentos não conseguiram ser mapeados (unmapped alignments)?**
+    Há 2.663 leituras não mapeadas no arquivo `/content/bioinfotest/output/aln.sorted.bam`.
+5.  **Qual é a distribuição do impacto funcional das variantes, e quais são os detalhes para as variantes de alto impacto?**
+    A análise do `/content/output/variants.ann.vcf` mostrou:
+    *   0 variantes com impacto funcional ALTO.
+    *   0 variantes com impacto funcional MODERADO.
+    *   0 variantes com impacto funcional BAIXO.
+    Como não foram encontradas variantes de alto impacto, nenhum detalhe específico pôde ser listado.
+
+### Principais Descobertas da Análise de Dados
+
+*   Ambos os arquivos FASTQ R1 e R2 continham um número idêntico de sequências: 64.276.
+*   O genoma de referência hg19, conforme indexado por `hg19.fa.fai`, compreende 93 contigs distintos.
+*   Uma região genômica específica (`chr17:41197694-41197819`) dentro das leituras alinhadas (aln.sorted.bam) mostrou 2.211 leituras alinhadas.
+*   Do total de leituras, 2.663 leituras em `aln.sorted.bam` foram consideradas não mapeadas.
+*   A análise do impacto funcional das variantes não indicou variantes (0 para ALTO, MODERADO e BAIXO) em todas as categorias de impacto no arquivo VCF fornecido.
+
+### Observações ou Próximos Passos
+
+*   A ausência de quaisquer variantes (ALTO, MODERADO ou BAIXO impacto) no arquivo `variants.ann.vcf` sugere um processo de filtragem altamente específico, uma ausência de variantes somáticas/germinais na amostra analisada em relação à referência, ou um problema com o pipeline de chamada ou anotação de variantes a montante.
+*   É recomendado investigar as etapas de chamada e anotação de variantes para confirmar se a falta de variantes, especialmente as de alto impacto, é esperada ou se indica uma potencial anomalia no processamento dos dados.

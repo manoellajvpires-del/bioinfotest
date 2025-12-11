@@ -1,0 +1,500 @@
+Colletotrichum jixiense strain CNUCC 5-21-2-2 actin (ACT) gene, partial cds	gi|2818622009|gb|PP830765.1|	94.416	197	2.18e-76	300
+Colletotrichum jixiense strain CNUCC 5-21-2-1 actin (ACT) gene, partial cds	gi|2818622007|gb|PP830764.1|	94.416	197	2.18e-76	300
+Colletotrichum sp. strain MYL05 actin (ACT) gene, partial cds	gi|1388003317|gb|KY995511.1|	94.416	197	2.18e-76	300
+Colletotrichum musae strain CMM4421 actin (ACT) gene, partial cds	gi|1048195293|gb|KX093970.1|	94.416	197	2.18e-76	300
+Colletotrichum musae strain CMM4452 actin (ACT) gene, partial cds	gi|1048195291|gb|KX093969.1|	94.416	197	2.18e-76	300
+Colletotrichum musae strain CMM4447 actin (ACT) gene, partial cds	gi|1048195289|gb|KX093968.1|	94.416	197	2.18e-76	300
+Colletotrichum musae strain CMM4458 actin (ACT) gene, partial cds	gi|1048195287|gb|KX093967.1|	94.416	197	2.18e-76	300
+Colletotrichum musae strain CMM4450 actin (ACT) gene, partial cds	gi|1048195285|gb|KX093966.1|	94.416	197	2.18e-76	300
+Colletotrichum musae strain CMM4422 actin (ACT) gene, partial cds	gi|1048195283|gb|KX093965.1|	94.416	197	2.18e-76	300
+Colletotrichum musae strain CMM4423 actin (ACT) gene, partial cds	gi|1048195281|gb|KX093964.1|	94.416	197	2.18e-76	300
+Colletotrichum musae strain CMM4445 actin (ACT) gene, partial cds	gi|1048195279|gb|KX093963.1|	94.416	197	2.18e-76	300
+Colletotrichum sp. strain CFCC 59618 actin (act) gene, partial cds	gi|2710860326|gb|PP425003.1|	94.416	197	2.18e-76	300
+Colletotrichum sp. strain CFCC 70160 actin (act) gene, partial cds	gi|2710860324|gb|PP425002.1|	94.416	197	2.18e-76	300
+Colletotrichum musae strain CML 3248 actin (act) gene, partial cds	gi|1075210100|gb|KX417773.1|	94.416	197	2.18e-76	300
+Colletotrichum musae isolate LPPC389 actin (ACT) gene, partial cds	gi|2577520905|gb|OR295212.1|	94.416	197	2.18e-76	300
+Colletotrichum musae isolate IIHR_COL_C2 actin (ACT) gene, partial cds	gi|2445446503|gb|OQ079578.1|	94.416	197	2.18e-76	300
+Colletotrichum alienum strain LF322 actin (ACT) gene, partial cds	gi|685428478|gb|KJ954411.1|	94.416	197	2.18e-76	300
+Colletotrichum musae isolate Cm_13 actin (ACT) gene, partial cds	gi|2330556317|gb|OP720839.1|	94.416	197	2.18e-76	300
+Colletotrichum musae strain CBAG1 actin (act) gene, partial cds	gi|748940502|gb|KJ534732.1|	94.416	197	2.18e-76	300
+Colletotrichum musae strain CBS 207.80 actin (ACT) gene, partial cds	gi|564969330|gb|KC566936.1|	94.416	197	2.18e-76	300
+Colletotrichum musae strain B15 actin (act) gene, partial cds	gi|522801717|gb|KC790616.1|	94.416	197	2.18e-76	300
+Colletotrichum musae isolate DNCL045 actin (ACT) gene, partial cds	gi|513135560|gb|KF157828.1|	94.416	197	2.18e-76	300
+Colletotrichum musae culture-collection CBS:116870 actin (ACT) gene, partial cds	gi|401065315|gb|JQ005840.1|	94.416	197	2.18e-76	300
+Colletotrichum musae culture ICMP:17817 actin (ACT) gene, partial cds	gi|399222245|gb|JX009432.1|	94.416	197	2.18e-76	300
+Colletotrichum musae isolate LJ1-2 actin (ACT) gene, partial cds	gi|1886825324|gb|MT396766.1|	94.416	197	2.18e-76	300
+Colletotrichum musae isolate JL1-3 actin (ACT) gene, partial cds	gi|1886825312|gb|MT396760.1|	94.416	197	2.18e-76	300
+Colletotrichum musae isolate BTL31 actin gene, partial sequence	gi|328833872|gb|HQ596286.1|	94.416	197	2.18e-76	300
+Colletotrichum conoides isolate ASb3 actin gene, partial cds	gi|2981516830|gb|PP934751.1|	93.909	197	1.02e-74	294
+Colletotrichum conoides isolate ASb2 actin gene, partial cds	gi|2981516828|gb|PP934750.1|	93.909	197	1.02e-74	294
+Colletotrichum conoides isolate Asb1 actin gene, partial cds	gi|2981516826|gb|PP934749.1|	93.909	197	1.02e-74	294
+Colletotrichum musae actin (act) gene, partial cds	gi|228065274|gb|FJ025807.1|	93.909	197	1.02e-74	294
+Colletotrichum queenslandicum strain CPO 27.307 actin (ACT) gene, partial cds	gi|1743115739|gb|MK948799.1|	93.909	197	3.65e-74	292
+Colletotrichum queenslandicum strain CPO 27.302 actin (ACT) gene, partial cds	gi|1743115737|gb|MK948798.1|	93.909	197	3.65e-74	292
+Colletotrichum queenslandicum strain CPO 27.261 actin (ACT) gene, partial cds	gi|1743115735|gb|MK948797.1|	93.909	197	3.65e-74	292
+Colletotrichum fructicola isolate A42 actin (ACT) gene, partial cds	gi|2961660982|gb|PV565039.1|	93.909	197	3.65e-74	292
+Colletotrichum fructicola isolate M3 actin (ACT) gene, partial cds	gi|2961660964|gb|PV565030.1|	93.909	197	3.65e-74	292
+Colletotrichum musae culture MFLUCC:24-0359 actin (Act) gene, partial cds	gi|2941702794|gb|PQ659874.1|	93.909	197	3.65e-74	292
+Colletotrichum tropicale MUCC 2580 ACT gene for actin, partial cds	gi|1610705886|dbj|LC474429.1|	93.909	197	3.65e-74	292
+Colletotrichum sp. GS-2018b strain PGXY05 actin (ACT) gene, partial cds	gi|1463800050|gb|MG197999.1|	93.909	197	3.65e-74	292
+Colletotrichum aenigma strain PGYGH03 actin (ACT) gene, partial cds	gi|1463800046|gb|MG197998.1|	93.909	197	3.65e-74	292
+Colletotrichum hebeiense strain JZB330117 actin (ACT) gene, partial cds	gi|1569651735|gb|MG812546.1|	93.909	197	3.65e-74	292
+Colletotrichum sp. strain FA543 actin (ACT) gene, partial cds	gi|1569059232|gb|MK413662.1|	93.909	197	3.65e-74	292
+Colletotrichum sp. strain FA542 actin (ACT) gene, partial cds	gi|1569059230|gb|MK413661.1|	93.909	197	3.65e-74	292
+Colletotrichum queenslandicum isolate CA43 actin (ACT) gene, partial cds	gi|2571404328|gb|OR188873.1|	93.909	197	3.65e-74	292
+Colletotrichum fructicola isolate PCZJJH3 actin (ACT) gene, partial cds	gi|2325512896|gb|OP750667.1|	93.909	197	3.65e-74	292
+Colletotrichum fructicola isolate PCZJSY2 actin (ACT) gene, partial cds	gi|2325512894|gb|OP750666.1|	93.909	197	3.65e-74	292
+Colletotrichum sp. isolate PCZJJD20 actin (ACT) gene, partial cds	gi|2325512800|gb|OP750619.1|	93.909	197	3.65e-74	292
+Colletotrichum musae strain CBAG3 actin (act) gene, partial cds	gi|748940505|gb|KJ534733.1|	93.909	197	3.65e-74	292
+Colletotrichum aenigma isolate JZ1102 actin (ACT) gene, partial cds	gi|2292923798|gb|MW783719.1|	93.909	197	3.65e-74	292
+Colletotrichum aenigma isolate JZ1092 actin (ACT) gene, partial cds	gi|2292923796|gb|MW783718.1|	93.909	197	3.65e-74	292
+Colletotrichum musae isolate CBS116870 actin gene, partial sequence	gi|328833870|gb|HQ596284.1|	93.909	197	3.65e-74	292
+Colletotrichum musae strain Colleto.1 actin (ACT) gene, partial cds	gi|1508732576|gb|MH005029.1|	95.628	183	1.31e-73	291
+Colletotrichum tropicale isolate CSAEG-CO19 actin (ACT) gene, partial cds	gi|1839276020|gb|MN942957.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale strain MBSZU 25-054 actin (act) gene, partial cds	gi|3062936965|gb|PX393136.1|	93.401	197	4.72e-73	289
+Colletotrichum aenigma strain Cg111 actin (ACT) gene, partial cds	gi|1169083982|gb|KU642513.1|	93.401	197	4.72e-73	289
+Colletotrichum musae strain C26 actin (ACT) gene, partial cds	gi|2970642162|gb|PP975277.1|	95.604	182	4.72e-73	289
+Colletotrichum tropicale isolate Pi 815 actin (ACT) gene, partial cds	gi|2950156933|gb|PV364082.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate Pi 81 actin (ACT) gene, partial cds	gi|2950156931|gb|PV364081.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate PC23 actin (act) gene, partial cds	gi|2583626097|gb|OR417338.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate PC22 actin (act) gene, partial cds	gi|2583626095|gb|OR417337.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale strain 14O-0020 actin (ACT) gene, partial cds	gi|873886209|gb|KT222903.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CCLF186 actin (ACT) gene, partial cds	gi|2329048097|gb|OP302777.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate UMUN014 actin (ACT) gene, partial cds	gi|2329043741|gb|ON262102.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate UMUN003 actin (ACT) gene, partial cds	gi|2329043731|gb|ON164646.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate Col-737 actin (ACT) gene, partial cds	gi|2296124970|gb|OM475600.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate TARI-F216082 actin (ACT) gene, partial cds	gi|2240670602|gb|MW480595.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale strain CPC 20955 actin (ACT) gene, partial cds	gi|564969358|gb|KC566950.1|	93.401	197	4.72e-73	289
+Colletotrichum siamense isolate GM49-L02 actin (ACT) gene, partial cds	gi|557790158|gb|KC512172.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CMM3787 actin (ACT) gene, partial cds	gi|570932396|gb|KC702923.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale culture-collection CMM<BRA>:4071 actin (ACT) gene, partial cds	gi|451342424|gb|KC533726.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate GC3 actin (ACT) gene, partial cds	gi|2060786922|gb|MT648522.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate GC12 actin (ACT) gene, partial cds	gi|2060786920|gb|MT648521.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate COUFAL0194 actin (ACT) gene, partial cds	gi|2050646334|gb|MW151306.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CgMG36 actin (ACT) gene, partial cds	gi|2042697975|gb|MT407940.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CgMG38B actin (ACT) gene, partial cds	gi|2042697973|gb|MT407939.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CgBC1 actin (ACT) gene, partial cds	gi|2042697971|gb|MT407938.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CgMG33 actin (ACT) gene, partial cds	gi|2042697969|gb|MT407937.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CgMG27 actin (ACT) gene, partial cds	gi|2042697967|gb|MT407936.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CgMG34 actin (ACT) gene, partial cds	gi|2042697965|gb|MT407935.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CgMG35 actin (ACT) gene, partial cds	gi|2042697963|gb|MT407934.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CgMG37 actin (ACT) gene, partial cds	gi|2042697961|gb|MT407933.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CgMG39 actin (ACT) gene, partial cds	gi|2042697959|gb|MT407932.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CgBC2 actin (ACT) gene, partial cds	gi|2042697957|gb|MT407931.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale isolate CgMG43 actin (ACT) gene, partial cds	gi|2042697935|gb|MT407920.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale culture CBS:124949 actin (ACT) gene, partial cds	gi|399222359|gb|JX009489.1|	93.401	197	4.72e-73	289
+Colletotrichum tropicale strain CPO 27.477 actin (ACT) gene, partial cds	gi|1894462477|gb|MN746529.1|	93.401	197	4.72e-73	289
+Colletotrichum siamense isolate GHY12-3 actin (ACT) gene, partial cds	gi|1860210653|gb|MN525819.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate JSC-3 actin (ACT) gene, partial cds	gi|1860210649|gb|MN525817.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate YN11 actin (ACT) gene, partial cds	gi|1860210647|gb|MN525816.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate YN22 actin (ACT) gene, partial cds	gi|1860210639|gb|MN525812.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate JSC-2 actin (ACT) gene, partial cds	gi|1860210631|gb|MN525808.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate JYSN-2 actin (ACT) gene, partial cds	gi|1860210625|gb|MN525805.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense culture MFLUCC:18-1162 actin (ACT) gene, partial cds	gi|1848920640|gb|MN995334.1|	93.401	197	1.70e-72	287
+Colletotrichum sp. strain FREC142 actin (ACT) gene, partial cds	gi|1839131505|gb|MT075927.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate FC1 actin (ACT) gene, partial cds	gi|1835911861|gb|MT199873.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain F3 actin (ACT) gene, partial cds	gi|1824674052|gb|MN972436.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain CX-0301 actin (ACT) gene, partial cds	gi|1824335779|gb|MN310691.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain BL16 actin (ACT) gene, partial cds	gi|1821655477|gb|MN273202.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale strain MBSZU 25-053 actin (act) gene, partial cds	gi|3062936963|gb|PX393135.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale strain MBSZU 25-052 actin (act) gene, partial cds	gi|3062936961|gb|PX393134.1|	93.401	197	1.70e-72	287
+Colletotrichum pandanicola isolate HPCS215 actin (act) gene, partial cds	gi|3057423842|gb|PX120656.1|	93.401	197	1.70e-72	287
+Colletotrichum pandanicola isolate HPCS21 actin (act) gene, partial cds	gi|3057423832|gb|PX120651.1|	93.401	197	1.70e-72	287
+Colletotrichum aeschynomenes isolate HPCS125 actin (act) gene, partial cds	gi|3057423830|gb|PX120650.1|	93.401	197	1.70e-72	287
+Colletotrichum pandanicola isolate HPCL47 actin (act) gene, partial cds	gi|3057423796|gb|PX120633.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain nbg-6 actin gene, partial cds	gi|1804497003|gb|MN058166.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain JDJG10 actin gene, partial cds	gi|1804496985|gb|MN058157.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain JDYB1 actin gene, partial cds	gi|1804496979|gb|MN058154.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JGQ-21 actin gene, partial cds	gi|1804496841|gb|MN058085.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain nbg-18 actin gene, partial cds	gi|1804496839|gb|MN058084.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JGQ-3 actin gene, partial cds	gi|1804496837|gb|MN058083.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain XSXS-2 actin gene, partial cds	gi|1804496835|gb|MN058082.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain XSXS-1 actin gene, partial cds	gi|1804496833|gb|MN058081.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain NK18 actin (ACT) gene, partial cds	gi|1169083998|gb|KU642521.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain Cg191 actin (ACT) gene, partial cds	gi|1169083992|gb|KU642518.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain Cg132 actin (ACT) gene, partial cds	gi|1169083990|gb|KU642517.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain Cg112 actin (ACT) gene, partial cds	gi|1169083984|gb|KU642514.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate C-303 actin (ACT) gene, partial cds	gi|1769006155|gb|MK358129.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate C-141 actin (ACT) gene, partial cds	gi|1769006153|gb|MK358128.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate COUFPI 53 actin (ACT) gene, partial cds	gi|1755994569|gb|MK732553.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain YL1-3 actin (ACT) gene, partial cds	gi|2993285487|gb|PV686492.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain GQHJS18 actin (ACT) gene, partial cds	gi|1737960108|gb|MN338041.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain GQH124 actin (ACT) gene, partial cds	gi|1737960068|gb|MN338021.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain GQH116 actin (ACT) gene, partial cds	gi|1737960062|gb|MN338018.1|	93.401	197	1.70e-72	287
+Colletotrichum gloeosporioides voucher ZH01 actin (ACT) gene, partial cds	gi|1735636547|gb|MK514456.1|	93.401	197	1.70e-72	287
+Colletotrichum gloeosporioides voucher YY03 actin (ACT) gene, partial cds	gi|1735636545|gb|MK514455.1|	93.401	197	1.70e-72	287
+Colletotrichum gloeosporioides voucher QX02 actin (ACT) gene, partial cds	gi|1735636543|gb|MK514454.1|	93.401	197	1.70e-72	287
+Colletotrichum gloeosporioides voucher MP14 actin (ACT) gene, partial cds	gi|1735636541|gb|MK514453.1|	93.401	197	1.70e-72	287
+Colletotrichum gloeosporioides voucher CP03 actin (ACT) gene, partial cds	gi|1735636537|gb|MK514451.1|	93.401	197	1.70e-72	287
+Colletotrichum gloeosporioides isolate K1 actin (ACT) gene, partial cds	gi|2961660960|gb|PV565028.1|	93.434	198	1.70e-72	287
+Colletotrichum gloeosporioides isolate P4 actin (ACT) gene, partial cds	gi|2961660958|gb|PV565027.1|	93.434	198	1.70e-72	287
+Colletotrichum tropicale isolate EIPP 78 actin (ACT) gene, partial cds	gi|1729918673|gb|MK344304.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate EIPP 77 actin (ACT) gene, partial cds	gi|1729918667|gb|MK344301.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate EIPP 70 actin (ACT) gene, partial cds	gi|1729918665|gb|MK344300.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate EIPP 36 actin (ACT) gene, partial cds	gi|1729918655|gb|MK344295.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate Plwhgl-02 actin (ACT) gene, partial cds	gi|2946238140|gb|PV342129.1|	93.401	197	1.70e-72	287
+Colletotrichum asianum culture MFLUCC:24-0344 actin (Act) gene, partial cds	gi|2941702786|gb|PQ659870.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain PL2-2 actin (ACT) gene, partial cds	gi|2924787452|gb|PV107126.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain PL7-2 actin (ACT) gene, partial cds	gi|2924787450|gb|PV107125.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense voucher CPC30209 actin (act) gene, partial cds	gi|1699466376|gb|MH781464.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate Col-392 actin (ACT) gene, partial cds	gi|2912139832|gb|PQ617044.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate CPCO-2004 actin (act) gene, partial cds	gi|2911520529|gb|PQ843230.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate CPCO-2001 actin (act) gene, partial cds	gi|2911520527|gb|PQ843229.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate YKY2409 actin (ACT) gene, partial cds	gi|2905084223|gb|PQ862260.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate YKY2408 actin (ACT) gene, partial cds	gi|2905084221|gb|PQ862259.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate YKY2404 actin (ACT) gene, partial cds	gi|2905084219|gb|PQ862258.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain YB2-4 actin (ACT) gene, partial cds	gi|2870644782|gb|PQ577569.1|	93.401	197	1.70e-72	287
+Colletotrichum asianum MUCC 2636 ACT gene for actin, partial cds	gi|1610705912|dbj|LC474440.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate P-5 actin (ACT) gene, partial cds	gi|1590852976|gb|MH603138.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain AACAWY203DRT5 actin (ACT) gene, partial cds	gi|1583996714|gb|MH476563.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate BJJP actin (ACT) gene, partial cds	gi|1490011821|gb|MG717314.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate KSUF23_17 actin (ACT) gene, partial cds	gi|2790779046|gb|PP764822.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate KSUF23_12 actin (ACT) gene, partial cds	gi|2790779040|gb|PP764819.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate KSUF23_11 actin (ACT) gene, partial cds	gi|2790779038|gb|PP764818.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate KSUF23_08 actin (ACT) gene, partial cds	gi|2790779034|gb|PP764816.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate KSUF23_07 actin (ACT) gene, partial cds	gi|2790779032|gb|PP764815.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate KSUF23_06 actin (ACT) gene, partial cds	gi|2790779030|gb|PP764814.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate KSUF23_05 actin (ACT) gene, partial cds	gi|2790779028|gb|PP764813.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain MFLUCC 17-1219 actin (ACT) gene, partial cds	gi|1569651729|gb|MG812543.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate HN32-1 actin (ACT) gene, partial cds	gi|1564301737|gb|MH622544.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma MAFF246750 ACT gene for actin, partial sequence	gi|1563821139|dbj|LC412413.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate KSUF23_01 actin (ACT) gene, partial cds	gi|2809804554|gb|PQ285608.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate SJSHLL19 actin (ACT) gene, partial cds	gi|1430400627|gb|MH290864.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate SJSHLL10 actin (ACT) gene, partial cds	gi|1430400609|gb|MH290855.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate SJSHLL1 actin (ACT) gene, partial cds	gi|1430400591|gb|MH290846.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense CNARE13126 actin gene, partial cds	gi|1420901048|gb|MG831726.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense CNARE13105 actin gene, partial cds	gi|1420901046|gb|MG831725.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain LJWG09 actin (ACT) gene, partial cds	gi|1388003351|gb|KY995528.1|	93.401	197	1.70e-72	287
+Colletotrichum fructicola strain PGZZ01 actin (ACT) gene, partial cds	gi|1388003329|gb|KY995517.1|	93.401	197	1.70e-72	287
+Colletotrichum conoides strain MYL24 actin (ACT) gene, partial cds	gi|1388003315|gb|KY995510.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale culture COAD:2083 actin (ACT) gene, partial cds	gi|1377570386|gb|MG675019.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain P-1 actin (ACT) gene, partial cds	gi|1343071186|gb|MG257772.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense actin (act) gene, partial cds	gi|1335807674|gb|MG642976.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale actin (act) gene, partial cds	gi|1335807672|gb|MG642973.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate 243 actin (ACT) gene, partial cds	gi|2728384872|gb|OR282928.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate 207 actin (ACT) gene, partial cds	gi|2728384870|gb|OR282927.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate 206 actin (ACT) gene, partial cds	gi|2728384868|gb|OR282926.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate 205 actin (ACT) gene, partial cds	gi|2728384866|gb|OR282925.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate 204 actin (ACT) gene, partial cds	gi|2728384864|gb|OR282924.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale strain COUFAL0029 actin (act) gene, partial cds	gi|1104461408|gb|KY021302.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate GA512 actin (act) gene, partial cds	gi|1173652742|gb|KX620168.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate GA415 actin (act) gene, partial cds	gi|1173652734|gb|KX620164.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate GA230 actin (act) gene, partial cds	gi|1173652712|gb|KX620153.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate GA098 actin (act) gene, partial cds	gi|1173652694|gb|KX620144.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate GA050 actin (act) gene, partial cds	gi|1173652686|gb|KX620140.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense ACT gene, actin, partial sequence, isolate: ICK-3	gi|1270108916|dbj|LC260525.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate YW actin (ACT) gene, partial cds	gi|1250098764|gb|KY418043.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate C12 actin (ACT) gene, partial cds	gi|1236771125|gb|KY986883.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate PHT1 actin (ACT) gene, partial cds	gi|1235978132|gb|KY609874.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate PHL12 actin (ACT) gene, partial cds	gi|1235978130|gb|KY609873.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate PHL11 actin (ACT) gene, partial cds	gi|1235978128|gb|KY609872.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate PHL9 actin (ACT) gene, partial cds	gi|1235978126|gb|KY609871.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate PHL8 actin (ACT) gene, partial cds	gi|1235978124|gb|KY609870.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate CMT10 actin (ACT) gene, partial cds	gi|1235978122|gb|KY609869.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate CMT9 actin (ACT) gene, partial cds	gi|1235978120|gb|KY609868.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate CMT8 actin (ACT) gene, partial cds	gi|1235978118|gb|KY609867.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate CMPG3 actin (ACT) gene, partial cds	gi|1235978116|gb|KY609866.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate CMPG2 actin (ACT) gene, partial cds	gi|1235978114|gb|KY609865.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate CMPG1 actin (ACT) gene, partial cds	gi|1235978112|gb|KY609864.1|	93.401	197	1.70e-72	287
+Colletotrichum conoides isolate GAC22127 actin (ACT) gene, partial cds	gi|2736759771|gb|PP825934.1|	93.401	197	1.70e-72	287
+Colletotrichum conoides isolate GAC23087 actin (ACT) gene, partial cds	gi|2736759769|gb|PP825933.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma N2-5 ACT gene for actin, partial cds	gi|2731716689|dbj|LC815246.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma N2-3 ACT gene for actin, partial cds	gi|2731716679|dbj|LC815241.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate fha1 actin (ACT) gene, partial cds	gi|2717518629|gb|PP661679.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate NBYZL-3 actin (ACT) gene, partial cds	gi|2717518621|gb|PP661675.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate NBYL-1 actin (ACT) gene, partial cds	gi|2717518617|gb|PP661673.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate NBYZL-4 actin (ACT) gene, partial cds	gi|2704691115|gb|PP537125.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate GX-4 actin (ACT) gene, partial cds	gi|2701786542|gb|PP501666.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate QF-11 actin (ACT) gene, partial cds	gi|2701786540|gb|PP501665.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain INPA 2066 actin (ACT) gene, partial cds	gi|1151126607|gb|KY435609.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate DLJ-4 actin (ACT) gene, partial cds	gi|2698139544|gb|PP480872.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate NQJ-3-A actin (ACT) gene, partial cds	gi|2698139542|gb|PP480871.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate LH-1 actin (ACT) gene, partial cds	gi|2698139540|gb|PP480870.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate ZXP-1 actin (ACT) gene, partial cds	gi|2698139538|gb|PP480869.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate LH-2 actin (ACT) gene, partial cds	gi|2698139536|gb|PP480868.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate SJZ-1 actin (ACT) gene, partial cds	gi|2698139534|gb|PP480867.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate HG-2 actin (ACT) gene, partial cds	gi|2698139532|gb|PP480866.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate WT-4-B actin (ACT) gene, partial cds	gi|2698139530|gb|PP480865.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate LH-11 actin (ACT) gene, partial cds	gi|2698139528|gb|PP480864.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate DLJ-D actin (ACT) gene, partial cds	gi|2698139526|gb|PP480863.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate LH-7 actin (ACT) gene, partial cds	gi|2698139524|gb|PP480862.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate LJZ-12 actin (ACT) gene, partial cds	gi|2698139522|gb|PP480861.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate GX-6 actin (ACT) gene, partial cds	gi|2698139520|gb|PP480860.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XL-1 actin (ACT) gene, partial cds	gi|2698139518|gb|PP480859.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XYJ-2 actin (ACT) gene, partial cds	gi|2698139516|gb|PP480858.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate HJ-1 actin (ACT) gene, partial cds	gi|2698139514|gb|PP480857.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate DLJ-1 actin (ACT) gene, partial cds	gi|2698139512|gb|PP480856.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate HZ-2 actin (ACT) gene, partial cds	gi|2698139510|gb|PP480855.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate HZL-1 actin (ACT) gene, partial cds	gi|2698139508|gb|PP480854.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XYJ-1 actin (ACT) gene, partial cds	gi|2698139506|gb|PP480853.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate QJ-11-B actin (ACT) gene, partial cds	gi|2698139504|gb|PP480852.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate NUJ-11 actin (ACT) gene, partial cds	gi|2698139502|gb|PP480851.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate LJZ-B actin (ACT) gene, partial cds	gi|2698139500|gb|PP480850.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate LJZ-6-B actin (ACT) gene, partial cds	gi|2698139498|gb|PP480849.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate DW-A actin (ACT) gene, partial cds	gi|2698139496|gb|PP480848.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate DW-8-1 actin (ACT) gene, partial cds	gi|2698139494|gb|PP480847.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate DW-8 actin (ACT) gene, partial cds	gi|2698139492|gb|PP480846.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate DW-1-1 actin (ACT) gene, partial cds	gi|2698139490|gb|PP480845.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate DW-1 actin (ACT) gene, partial cds	gi|2698139488|gb|PP480844.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate CJ2-1 actin (ACT) gene, partial cds	gi|2698139484|gb|PP480842.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate CDL-6 actin (ACT) gene, partial cds	gi|2698139482|gb|PP480841.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense voucher ZHKUCC 23-0837 actin (ACT) gene, partial cds	gi|2587643806|gb|OR493806.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense voucher ZHKUCC 23-0836 actin (ACT) gene, partial cds	gi|2587643804|gb|OR493805.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense voucher ZHKUCC 23-0835 actin (ACT) gene, partial cds	gi|2587643802|gb|OR493804.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate Cg56 actin (ACT) gene, partial cds	gi|1153959402|gb|KX513882.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain XY15 actin (ACT) gene, partial cds	gi|1150119630|gb|KX885151.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale strain CPHN 03 actin (ACT) gene, partial cds	gi|2647210281|gb|PP053511.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale strain CPHN 02 actin (ACT) gene, partial cds	gi|2647210279|gb|PP053510.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale strain CPHN 01 actin (ACT) gene, partial cds	gi|2647210277|gb|PP053509.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JS1A29 actin (ACT) gene, partial cds	gi|1031182746|gb|KU251629.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate ccmi3 actin (ACT) gene, partial cds	gi|1073548843|gb|KX685184.1|	93.401	197	1.70e-72	287
+Colletotrichum sp. ETHCTR156 actin (ACT) gene, partial cds	gi|891476498|gb|KT282593.1|	93.401	197	1.70e-72	287
+Colletotrichum sp. ETHCTR064 actin (ACT) gene, partial cds	gi|891476348|gb|KT282518.1|	93.401	197	1.70e-72	287
+Colletotrichum sp. ETHCTR032 actin (ACT) gene, partial cds	gi|891476290|gb|KT282489.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate PC3 actin (act) gene, partial cds	gi|2583626099|gb|OR417339.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNPC01 actin (ACT) gene, partial cds	gi|2580534534|gb|OR365236.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate JSJT-3 actin (ACT) gene, partial cds	gi|2572089930|gb|OR228545.1|	93.401	197	1.70e-72	287
+Colletotrichum aeschynomenes isolate MFLUCC 23-0043 actin (ACT) gene, partial cds	gi|2577098342|gb|OQ968481.1|	93.401	197	1.70e-72	287
+Colletotrichum aeschynomenes isolate MFLUCC 23-0042 actin (ACT) gene, partial cds	gi|2577098340|gb|OQ968480.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate CsC actin (ACT) gene, partial cds	gi|2566942084|gb|OR086107.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate CsB actin (ACT) gene, partial cds	gi|2566942082|gb|OR086106.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma OGCLZ1 ACT gene for actin, partial cds	gi|2205690838|dbj|LC684932.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZEC32 actin (ACT) gene, partial cds	gi|2523571008|gb|OQ427910.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate PC32 actin (act) gene, partial cds	gi|2522903343|gb|OQ723031.1|	93.401	197	1.70e-72	287
+Colletotrichum conoides strain CAUG17 actin (ACT) gene, partial cds	gi|984945150|gb|KP890144.1|	93.401	197	1.70e-72	287
+Colletotrichum gloeosporioides strain ZJLA-W031 actin (ACT) gene, partial cds	gi|2505220185|gb|OP611105.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain ZJLA-W110 actin (ACT) gene, partial cds	gi|2505220063|gb|OP610861.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain ZJLA-W068 actin (ACT) gene, partial cds	gi|2505220059|gb|OP610859.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain ZJLA-W066 actin (ACT) gene, partial cds	gi|2505220057|gb|OP610858.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain ZJLA-W062 actin (ACT) gene, partial cds	gi|2505220055|gb|OP610857.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate YH-1 actin (ACT) gene, partial cds	gi|2501219152|gb|OP810501.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain 114-B1 actin (ACT) gene, partial cds	gi|2497272430|gb|OQ698783.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain 114-A1 actin (ACT) gene, partial cds	gi|2497272428|gb|OQ698782.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain CFCC 56103 actin (ACT) gene, partial cds	gi|2497272426|gb|OQ698781.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain 0129-A4 actin (ACT) gene, partial cds	gi|2497272376|gb|OQ698756.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain CFCC 56198 actin (ACT) gene, partial cds	gi|2497272374|gb|OQ698755.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain CFCC 56206 actin (ACT) gene, partial cds	gi|2497272372|gb|OQ698754.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain ZJLA-W097 actin (ACT) gene, partial cds	gi|2496715522|gb|OP642041.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain ZJLA-W092 actin (ACT) gene, partial cds	gi|2496715520|gb|OP642040.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain F12PGXY03 actin (ACT) gene, partial cds	gi|613403486|gb|KF772027.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate BLH12 actin (act) gene, partial cds	gi|2485433017|gb|OP433645.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain HACS-3 actin (act) gene, partial cds	gi|2484515051|gb|OP373427.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain HACS-2 actin (act) gene, partial cds	gi|2484515049|gb|OP373426.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain HACS-1 actin (act) gene, partial cds	gi|2484515047|gb|OP373425.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JFRL 03-1005 actin (ACT) gene, partial cds	gi|2484235664|gb|OQ603370.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense voucher GUCC 12074 actin (ACT) gene, partial cds	gi|2472522470|gb|OP740190.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense voucher GUCC 12063 actin (ACT) gene, partial cds	gi|2472522454|gb|OP740182.1|	93.401	197	1.70e-72	287
+Colletotrichum populi isolate QHD-56-1 actin (ACT) gene, partial cds	gi|2470334372|gb|OP037894.1|	93.401	197	1.70e-72	287
+Colletotrichum populi isolate HZZ-32 actin (ACT) gene, partial cds	gi|2470334368|gb|OP037892.1|	93.401	197	1.70e-72	287
+Colletotrichum populi isolate HZZ-2-1 actin (ACT) gene, partial cds	gi|2470334366|gb|OP037891.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate HZZ-15-1 actin (ACT) gene, partial cds	gi|2459964251|gb|ON991524.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate HZZ-5-2 actin (ACT) gene, partial cds	gi|2459964249|gb|ON991523.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate WH2-9 actin (ACT) gene, partial cds	gi|2458443639|gb|OQ428571.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate HQ2-6 actin (ACT) gene, partial cds	gi|2458443637|gb|OQ428570.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate HQ2-1 actin (ACT) gene, partial cds	gi|2458443635|gb|OQ428569.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain CFCC55535 actin (act) gene, partial cds	gi|2452457022|gb|OQ410632.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate CCAS-DJH-1 actin (ACT) gene, partial cds	gi|2452248658|gb|OP314900.1|	93.401	197	1.70e-72	287
+Colletotrichum queenslandicum isolate OBP22 actin (ACT) gene, partial cds	gi|818946515|gb|KJ947185.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate IIHR_COL_C7 actin (ACT) gene, partial cds	gi|2445446513|gb|OQ079583.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma actin (ACT) gene, partial cds; mitochondrial	gi|2443290086|gb|ON553000.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain SICAUCC 22-0128 actin (act) gene, partial cds	gi|2442093774|gb|OQ190493.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense 4MU 33-1 ACT gene for actin, partial cds	gi|2438343869|dbj|LC746236.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense 2CHI 12 ACT gene for actin, partial cds	gi|2438343867|dbj|LC746235.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate CC16 actin (act) gene, partial cds	gi|2432739587|gb|ON206661.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate ZJ-8 actin (ACT) gene, partial cds	gi|2427208072|gb|ON017529.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain SYQ6 actin (act) gene, partial cds	gi|2426963993|gb|ON012700.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC27 actin (ACT) gene, partial cds	gi|2412460786|gb|OM681220.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC26 actin (ACT) gene, partial cds	gi|2412460784|gb|OM681219.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC25 actin (ACT) gene, partial cds	gi|2412460782|gb|OM681218.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC24 actin (ACT) gene, partial cds	gi|2412460780|gb|OM681217.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC22 actin (ACT) gene, partial cds	gi|2412460778|gb|OM681216.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC21 actin (ACT) gene, partial cds	gi|2412460776|gb|OM681215.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC19 actin (ACT) gene, partial cds	gi|2412460774|gb|OM681214.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC18 actin (ACT) gene, partial cds	gi|2412460772|gb|OM681213.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC17 actin (ACT) gene, partial cds	gi|2412460770|gb|OM681212.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC16 actin (ACT) gene, partial cds	gi|2412460768|gb|OM681211.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC15 actin (ACT) gene, partial cds	gi|2412460766|gb|OM681210.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC14 actin (ACT) gene, partial cds	gi|2412460764|gb|OM681209.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC13 actin (ACT) gene, partial cds	gi|2412460762|gb|OM681208.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC12 actin (ACT) gene, partial cds	gi|2412460760|gb|OM681207.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC11 actin (ACT) gene, partial cds	gi|2412460758|gb|OM681206.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC10 actin (ACT) gene, partial cds	gi|2412460756|gb|OM681205.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC09 actin (ACT) gene, partial cds	gi|2412460754|gb|OM681204.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC08 actin (ACT) gene, partial cds	gi|2412460752|gb|OM681203.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC07 actin (ACT) gene, partial cds	gi|2412460750|gb|OM681202.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC06 actin (ACT) gene, partial cds	gi|2412460748|gb|OM681201.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC05 actin (ACT) gene, partial cds	gi|2412460746|gb|OM681200.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC04 actin (ACT) gene, partial cds	gi|2412460744|gb|OM681199.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC02 actin (ACT) gene, partial cds	gi|2412460742|gb|OM681198.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate XZC01 actin (ACT) gene, partial cds	gi|2412460740|gb|OM681197.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain DZ 03 actin (ACT) gene, partial cds	gi|2327653537|gb|OL790301.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain DZ 02 actin (ACT) gene, partial cds	gi|2327653534|gb|OL790300.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain DZ 01 actin (ACT) gene, partial cds	gi|2327653532|gb|OL790299.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate LZ2-1-1b actin (ACT) gene, partial cds	gi|2327529921|gb|OL420939.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate PCJSCZ6 actin (ACT) gene, partial cds	gi|2325512968|gb|OP750703.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate PCJSCZ4 actin (ACT) gene, partial cds	gi|2325512920|gb|OP750679.1|	93.401	197	1.70e-72	287
+Colletotrichum conoides isolate PCJSLH1 actin (ACT) gene, partial cds	gi|2325512856|gb|OP750647.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate PCJSCZ5 actin (ACT) gene, partial cds	gi|2325512852|gb|OP750645.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma N2-1 ACT gene for actin, partial cds	gi|2558034281|dbj|LC776012.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate JNTW11 actin (ACT) gene, partial cds	gi|2325166611|gb|OL672233.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma SDWF15 actin (actA) gene, partial cds	gi|2324156345|gb|ON996409.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma SDWF12 actin (actA) gene, partial cds	gi|2324156339|gb|ON996406.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate Litchi-Cg2 actin (ACT) gene, partial cds	gi|2311585908|gb|ON707528.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate PSW0009 actin (ACT) gene, partial cds	gi|2310114680|gb|OP225607.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate PSW0008 actin (ACT) gene, partial cds	gi|2310114678|gb|OP225606.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate PSW0002 actin (ACT) gene, partial cds	gi|2310114676|gb|OP225605.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate UFCM0684 actin (act) gene, partial cds	gi|2310112548|gb|OL799311.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate Col-2071 actin (ACT) gene, partial cds	gi|2296124892|gb|OM314953.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate Col-806 actin (ACT) gene, partial cds	gi|2296124890|gb|OM314952.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate JZ1071 actin (ACT) gene, partial cds	gi|2292923794|gb|MW783717.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate DGZ1091 actin (ACT) gene, partial cds	gi|2292923792|gb|MW783716.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate DGZ1071 actin (ACT) gene, partial cds	gi|2292923790|gb|MW783715.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate LDH9011 actin (ACT) gene, partial cds	gi|2292923788|gb|MW783714.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate LDH7013 actin (ACT) gene, partial cds	gi|2292923786|gb|MW783713.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate LDH4012 actin (ACT) gene, partial cds	gi|2292923784|gb|MW783712.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate LDH3011 actin (ACT) gene, partial cds	gi|2292923782|gb|MW783711.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate JF2393 actin (ACT) gene, partial cds	gi|2292923780|gb|MW783710.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate JF2392 actin (ACT) gene, partial cds	gi|2292923778|gb|MW783709.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate JF2391 actin (ACT) gene, partial cds	gi|2292923776|gb|MW783708.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate TMLY1002-1.2 actin (ACT) gene, partial cds	gi|2291334567|gb|MW789284.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate TMLY1002-1.1 actin (ACT) gene, partial cds	gi|2291334565|gb|MW789283.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate Col-2165 actin (actin) gene, partial cds	gi|2059392993|gb|MZ438725.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate Col-1924 actin (actin) gene, partial cds	gi|2059392987|gb|MZ438722.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain JD-ZJ-J-10 actin (ACT) gene, partial cds	gi|2287109663|gb|MW695856.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain JZB330273 actin (ACT) gene, partial cds	gi|2274142267|gb|OK573429.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain JZB330270 actin gene, partial cds; and ACT gene, partial sequence	gi|2274142261|gb|OK573426.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JZB330232 actin (ACT) gene, partial cds	gi|2274141814|gb|OK573353.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JZB330227 actin (ACT) gene, partial cds	gi|2274141804|gb|OK573348.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JZB330223 actin (ACT) gene, partial cds	gi|2274141796|gb|OK573344.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JZB330221 actin (ACT) gene, partial cds	gi|2274141792|gb|OK573342.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JZB330218 actin (ACT) gene, partial cds	gi|2274141786|gb|OK573339.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JZB330217 actin (ACT) gene, partial cds	gi|2274141784|gb|OK573338.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JZB330215 actin (ACT) gene, partial cds	gi|2274141780|gb|OK573336.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JZB330214 actin (ACT) gene, partial cds	gi|2274141778|gb|OK573335.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JZB330213 actin (ACT) gene, partial cds	gi|2274141776|gb|OK573334.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain JZB330212 actin (ACT) gene, partial cds	gi|2274141774|gb|OK573333.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate Penampang actin (ACT) gene, partial cds	gi|2266111510|gb|OL953032.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate UMS02 actin (ACT) gene, partial cds	gi|2266111508|gb|OL953031.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate UMS01 actin (ACT) gene, partial cds	gi|2266111506|gb|OL953030.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate MGLA5 actin gene, partial cds	gi|2261129196|gb|MZ820975.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate BHKF1 actin gene, partial cds	gi|2261129194|gb|MZ820974.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate ANWA15 actin gene, partial cds	gi|2261129192|gb|MZ820973.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate YJYK1 actin gene, partial cds	gi|2261129190|gb|MZ820972.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate GGYF7 actin gene, partial cds	gi|2261129188|gb|MZ820971.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate CGCP6 actin gene, partial cds	gi|2261129186|gb|MZ820970.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY123 actin (ACT) gene, partial cds	gi|2261127858|gb|MZ441292.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY112 actin (ACT) gene, partial cds	gi|2261127856|gb|MZ441291.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate WQY102 actin (ACT) gene, partial cds	gi|2261127854|gb|MZ441290.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate WQY101 actin (ACT) gene, partial cds	gi|2261127852|gb|MZ441289.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG92 actin (ACT) gene, partial cds	gi|2261127850|gb|MZ441288.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG91 actin (ACT) gene, partial cds	gi|2261127848|gb|MZ441287.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY73 actin (ACT) gene, partial cds	gi|2261127846|gb|MZ441286.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG72 actin (ACT) gene, partial cds	gi|2261127844|gb|MZ441285.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG71 actin (ACT) gene, partial cds	gi|2261127842|gb|MZ441284.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY62 actin (ACT) gene, partial cds	gi|2261127840|gb|MZ441283.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY235 actin (ACT) gene, partial cds	gi|2261127838|gb|MZ441282.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG52 actin (ACT) gene, partial cds	gi|2261127834|gb|MZ441280.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG51 actin (ACT) gene, partial cds	gi|2261127832|gb|MZ441279.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY234 actin (ACT) gene, partial cds	gi|2261127830|gb|MZ441278.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG42 actin (ACT) gene, partial cds	gi|2261127812|gb|MZ441269.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG41 actin (ACT) gene, partial cds	gi|2261127806|gb|MZ441266.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY233 actin (ACT) gene, partial cds	gi|2261127804|gb|MZ441265.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate WQY31 actin (ACT) gene, partial cds	gi|2261127800|gb|MZ441263.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY182 actin (ACT) gene, partial cds	gi|2261127798|gb|MZ441262.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY142 actin (ACT) gene, partial cds	gi|2261127796|gb|MZ441261.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG22 actin (ACT) gene, partial cds	gi|2261127792|gb|MZ441259.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY21 actin (ACT) gene, partial cds	gi|2261127790|gb|MZ441258.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG21 actin (ACT) gene, partial cds	gi|2261127788|gb|MZ441257.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY301 actin (ACT) gene, partial cds	gi|2261127786|gb|MZ441256.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY291 actin (ACT) gene, partial cds	gi|2261127784|gb|MZ441255.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY261 actin (ACT) gene, partial cds	gi|2261127782|gb|MZ441254.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY231 actin (ACT) gene, partial cds	gi|2261127780|gb|MZ441253.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY201 actin (ACT) gene, partial cds	gi|2261127778|gb|MZ441252.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY181 actin (ACT) gene, partial cds	gi|2261127776|gb|MZ441251.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate WQY117 actin (ACT) gene, partial cds	gi|2261127774|gb|MZ441250.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate WQY115 actin (ACT) gene, partial cds	gi|2261127772|gb|MZ441249.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate WQY112 actin (ACT) gene, partial cds	gi|2261127770|gb|MZ441248.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate WQY111 actin (ACT) gene, partial cds	gi|2261127768|gb|MZ441247.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate WQY15 actin (ACT) gene, partial cds	gi|2261127764|gb|MZ441245.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY452 actin (ACT) gene, partial cds	gi|2261127760|gb|MZ441243.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY451 actin (ACT) gene, partial cds	gi|2261127758|gb|MZ441242.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY392 actin (ACT) gene, partial cds	gi|2261127752|gb|MZ441239.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY362 actin (ACT) gene, partial cds	gi|2261127750|gb|MZ441238.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate WQY136 actin (ACT) gene, partial cds	gi|2261127748|gb|MZ441237.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY351 actin (ACT) gene, partial cds	gi|2261127746|gb|MZ441236.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY341 actin (ACT) gene, partial cds	gi|2261127744|gb|MZ441235.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY332 actin (ACT) gene, partial cds	gi|2261127742|gb|MZ441234.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY331 actin (ACT) gene, partial cds	gi|2261127740|gb|MZ441233.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXY302 actin (ACT) gene, partial cds	gi|2261127738|gb|MZ441232.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG3 actin (ACT) gene, partial cds	gi|2261127736|gb|MZ441231.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate WQYA8 actin (ACT) gene, partial cds	gi|2261127734|gb|MZ441230.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG11 actin (ACT) gene, partial cds	gi|2261127730|gb|MZ441228.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate MXG12 actin (ACT) gene, partial cds	gi|2261127728|gb|MZ441227.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain C1 actin (ACT) gene, partial cds	gi|2258756402|gb|ON492211.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain C9 actin (ACT) gene, partial cds	gi|2258756400|gb|ON492204.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain CSH6 actin (ACT) gene, partial cds	gi|2258756397|gb|ON492197.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain CSH2 actin (ACT) gene, partial cds	gi|2258756395|gb|ON492190.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain PGYXY04 actin (ACT) gene, partial cds	gi|603065874|gb|KF791567.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate UMS05 actin (act) gene, partial cds	gi|2240872963|gb|OM513911.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate UMS04 actin (act) gene, partial cds	gi|2240872960|gb|OM513910.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate TARI-F218113 actin (ACT) gene, partial cds	gi|2240670638|gb|MW480613.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate TARI-F217120 actin (ACT) gene, partial cds	gi|2240670610|gb|MW480599.1|	93.401	197	1.70e-72	287
+Colletotrichum gloeosporioides strain DZ-31 actin (ACT) gene, partial cds	gi|2240244780|gb|MW517695.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNWCF02 actin gene, partial cds	gi|2236029187|gb|MW426525.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate GXCZF01 actin gene, partial cds	gi|2236029185|gb|MW426524.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNWCL03 actin gene, partial cds	gi|2236029182|gb|MW426523.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNWCL01 actin gene, partial cds	gi|2236029174|gb|MW426521.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNDZF03 actin gene, partial cds	gi|2236029167|gb|MW426519.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNDZF02 actin gene, partial cds	gi|2236029164|gb|MW426518.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNDZF01 actin gene, partial cds	gi|2236029162|gb|MW426517.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNZDL06 actin gene, partial cds	gi|2236029154|gb|MW426515.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNDZL05 actin gene, partial cds	gi|2236029150|gb|MW426514.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNZDL04 actin gene, partial cds	gi|2236029142|gb|MW426513.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNBSL02 actin gene, partial cds	gi|2236029132|gb|MW426509.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNBSL01 actin gene, partial cds	gi|2236029130|gb|MW426508.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNHKL02 actin gene, partial cds	gi|2236029128|gb|MW426507.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate HNHKL01 actin gene, partial cds	gi|2236029124|gb|MW426506.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain GC20190701 actin (act) gene, partial cds	gi|2221379240|gb|OM860286.1|	93.401	197	1.70e-72	287
+Colletotrichum gloeosporioides strain DZ-19 actin (ACT) gene, partial cds	gi|2210645011|gb|MW148755.1|	93.401	197	1.70e-72	287
+Colletotrichum conoides JZB330287 actin (ACT) gene, partial cds	gi|2172662677|gb|OL471160.1|	93.401	197	1.70e-72	287
+Colletotrichum conoides JZB330283 actin (ACT) gene, partial cds	gi|2172662669|gb|OL471156.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate CDH054 actin (act) gene, partial cds	gi|2168813244|gb|OK665932.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate CDH053 actin (act) gene, partial cds	gi|2168813242|gb|OK665931.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense RB006 ACT gene for actin, partial sequence	gi|2155053613|dbj|LC660212.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain B11 actin (ACT) gene, partial cds	gi|651236536|gb|KF377531.1|	93.401	197	1.70e-72	287
+Colletotrichum sp. IVS-2014c isolate A21 actin (ACT) gene, partial cds	gi|631793015|gb|KJ490337.1|	93.401	197	1.70e-72	287
+Colletotrichum sp. IVS-2014c isolate A6 actin (ACT) gene, partial cds	gi|631793001|gb|KJ490330.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain CSL 780 actin (ACT) gene, partial cds	gi|564969200|gb|KC566871.1|	93.401	197	1.70e-72	287
+Colletotrichum sp. CMM3814 actin (ACT) gene, partial cds	gi|570932394|gb|KC702922.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense strain LC1232 actin (ACT) gene, partial cds	gi|555593258|gb|KC676709.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate DNCL072 actin (ACT) gene, partial cds	gi|513135534|gb|KF157815.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate DNCL068 actin (ACT) gene, partial cds	gi|513135542|gb|KF157819.1|	93.401	197	1.70e-72	287
+Colletotrichum sp. NK28 actin (act) gene, partial cds	gi|396925881|gb|JQ894547.1|	93.401	197	1.70e-72	287
+Colletotrichum sp. GM390 actin (act) gene, partial cds	gi|396925863|gb|JQ894537.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain PGQD05 actin (ACT) gene, partial cds	gi|2040483515|gb|MT341058.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain PGQD02 actin (ACT) gene, partial cds	gi|2040483511|gb|MT341056.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma strain YDDF2 actin (ACT) gene, partial cds	gi|2030916874|gb|MW822050.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate HY-6 actin (ACT) gene, partial cds	gi|2028829473|gb|MW387034.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate HY-1 actin (ACT) gene, partial cds	gi|2028829471|gb|MW387033.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate RP6 actin (ACT) gene, partial cds	gi|2025686159|gb|MW116161.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate MBCO actin (ACT) gene, partial cds	gi|2025686157|gb|MW116160.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate 44 actin (ACT) gene, partial cds	gi|1990707337|gb|MT416484.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate 16d actin (ACT) gene, partial cds	gi|1990707335|gb|MT416483.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate 43b actin (ACT) gene, partial cds	gi|1990707333|gb|MT416482.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate PL4 actin (Act) gene, partial cds	gi|1973157890|gb|MW341257.1|	93.401	197	1.70e-72	287
+Colletotrichum siamense isolate PL3 actin (Act) gene, partial cds	gi|1973157831|gb|MW341256.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma TAP19T040 ACT gene for actin, partial cds	gi|2783282209|dbj|LC720973.1|	93.401	197	1.70e-72	287
+Colletotrichum tropicale isolate MML025 actin (ACT) gene, partial cds.	gi|1829002192|gb|MN626853.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma GRAP 12 ACT gene for actin, partial sequence	gi|1915163291|dbj|LC586825.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma GRAP 10 ACT gene for actin, partial sequence	gi|1915163288|dbj|LC586824.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma GRAP 7 ACT gene for actin, partial sequence	gi|1915163286|dbj|LC586823.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate ZH2 actin (ACT) gene, partial cds	gi|1908524294|gb|MT500880.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate YM8 actin (ACT) gene, partial cds	gi|1908524292|gb|MT500879.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate SC7 actin (ACT) gene, partial cds	gi|1908524290|gb|MT500878.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate JS7 actin (ACT) gene, partial cds	gi|1908524288|gb|MT500877.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate JS2 actin (ACT) gene, partial cds	gi|1908524286|gb|MT500876.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate HC3 actin (ACT) gene, partial cds	gi|1908524284|gb|MT500875.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate P-6 actin (ACT) gene, partial cds	gi|1877818227|gb|MN621658.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate P-4 actin (ACT) gene, partial cds	gi|1877818225|gb|MN621657.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate P-3 actin (ACT) gene, partial cds	gi|1877818223|gb|MN621656.1|	93.401	197	1.70e-72	287
+Colletotrichum aenigma isolate P-2 actin (ACT) gene, partial cds	gi|1877818221|gb|MN621655.1|	93.401	197	1.70e-72	287
